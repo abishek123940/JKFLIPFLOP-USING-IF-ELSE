@@ -1,4 +1,11 @@
-# JKFLIPFLOP-USING-IF-ELSE
+**NAME:**
+S ABISHEK
+
+**REG NO:**
+24900833
+
+**EXP NO 7:**
+JK FLIP FLOP
 
 **AIM:** 
 
@@ -34,15 +41,31 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Launch Quartus on your computer and create a new project: Go to File → New Project Wizard.
+Specify the project name, directory, and top-level entity name (e.g., JK_FlipFlop).
+Create the JK Flip-Flop Circuit and implement the JK Flip-Flop by writing VHDL/Verilog code. Go to
+File → New → Select Verilog File.
+Compile the Project Click on Processing → Start Compilation.
+Fix any syntax or schematic errors if present.
+Simulate the Circuit: Go to Tools → University Program VWF.
+Define the inputs for J, K, and CLK in the waveform editor.
+Run the simulation and observe the waveforms.
+Verify the Results. Compare the simulated results with the truth table for a JK Flip-Flop.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![image](https://github.com/user-attachments/assets/49870be1-2962-4d93-8e37-2dd58303ee4b)
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![image](https://github.com/user-attachments/assets/46cddab2-010a-4d60-9a50-4ac1596ea864)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![image](https://github.com/user-attachments/assets/8777b81d-2058-40fb-a4d3-f07869a3cd61)
+
 **RESULTS**
+
+Designed and verified the implimentation of JK flipflop circuit and truthtable in quartus ii using verilog programming successfully
