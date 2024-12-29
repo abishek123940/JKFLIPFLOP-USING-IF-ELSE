@@ -4,7 +4,7 @@ S ABISHEK
 **REG NO:**
 24900833
 
-**EXP NO 7:**
+**EXP NO 5:**
 JK FLIP FLOP
 
 **AIM:** 
